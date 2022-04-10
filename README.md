@@ -7,7 +7,7 @@
 ## 🎓 Educación:
 Digital House -***Full Stack Developper***-  **Trainee/Junior**.
 
-***|Java Script|NodeJS|Express|SQL|EJS|***
+***|Java Script|NodeJS|Express|MySQL|EJS|***
 
 
 
