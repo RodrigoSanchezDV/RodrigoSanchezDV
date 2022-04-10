@@ -1,16 +1,55 @@
-### Hi there 👋
+# Rodrigo Sanchez 👊
 
-<!--
-**RodrigoSanchezDV/RodrigoSanchezDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🎓 Educacion:
+Digital House -***Full Stack Developper***-  **Trainee/Junior**.
+
+***|Java Script|NodeJS|Express|SQL|EJS|***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+### 🚀 Sobre mi... 💪
+
+   Soy de Argentina, tengo 20 años, comence a estudiar desarrollo web a mitad del 2021, sigo en proceso de estudio, con muchas ganas de seguir aprendiendo nuevas tecnologias, y de aplicar mis conocimientos en el hambito profesional.💻💻
+
+
+
+
+
+### 🔗 Contáctame.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigosanchezdv/)
