@@ -5,11 +5,9 @@
 
 
 ## 🎓 Educación:
-Digital House -***Full Stack Developper***-.
+-******-.
 
-***|Java Script|NodeJS|Express|MySQL|EJS|ReactJS|***
-
-
+******
 
 
 
@@ -42,10 +40,8 @@ Digital House -***Full Stack Developper***-.
 
 
 
-##
-### 🚀 Sobre mi... 💪
 
-   Soy de Argentina, tengo 20 años, comence a estudiar desarrollo web a mitad del 2021, sigo en proceso de estudio, con muchas ganas de seguir aprendiendo nuevas tecnologias, y de aplicar mis conocimientos en el hambito profesional.💻💻
+
 
 
 
